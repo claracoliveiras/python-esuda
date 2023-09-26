@@ -40,7 +40,7 @@ listaaa = [1, 2, 3, 4]
 print(excluir_vetor(listaaa, 2))
 
 # Comentar essa linha caso queira testar o método de adicionar
-# for i in range(len(vetor)):
+# for i in range(len(vetor))
 #    adicionar_vetor(vetor, randint(1, 100))
 
 # print(vetor)
